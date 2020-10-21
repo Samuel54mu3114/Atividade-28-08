@@ -5,14 +5,14 @@ html, body{
 }
 
 h1{
-    color: #4ab3c6;
+    color: #4ac66f;
 }
 
 
 .form{
     border: 2px solid #000;
-    width: 240px;
-    height: 240px;
+    width: 440px;
+    height: 440px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,7 +22,7 @@ h1{
 .caixa{
    height: 100%;
    display: flex;
-   background-color: #4ab3c6;
+   background-color: #79f0be;
    justify-content: center;
    align-items: center;
 }
@@ -37,6 +37,6 @@ input{
 }
 
 input[type="submit"]:hover{
-    background: #4ab3c6;
+    background: #ecf001;
 }
 
